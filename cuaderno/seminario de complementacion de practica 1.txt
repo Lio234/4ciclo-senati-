@@ -1,0 +1,73 @@
+Uml:
+    -Se usa principalmente para poder describir una idea de sistema de software de manera mas simplificada
+    -lenguaje de modelamiento visual
+    -es una notación
+
+    Tipos de diagramas:
+        Diagramas Estaticos
+            -diagrama de clases
+            -componenetes
+            -despliegue
+            -paquetes
+            -objetos
+        Diagramas dinamicos:
+            -Actividades
+            -comunicacion
+            
+    Casos de uso:
+        diseño de software
+        diagrama de clases 
+        secuencias a seguir
+        documentacion del codigo
+        Ayuda a la reduccion de errores de logica con el cliente
+        
+	
+    practica:
+    de uso de situacion: asociación
+    de uso obligatorio: include
+    de uso opcional: extend
+
+
+
+
+
+
+Metodologia rup:
+	1.planificacion
+	2.analisis y diseño
+	3.Contruccion o desarrollo
+	4.pruebas
+	5.Implementacion
+
+
+
+Tarea:
+realiza el modelado del sistema
+    requisitos 
+        El usuario podrá registrarse (nombre de usuario, contraseña y correo).
+        El usuario podrá iniciar y cerrar sesión.
+        El usuario podrá modificar sus datos de registro (nombre de usuario, correo, contraseña).
+        El usuario a través de una interfaz web ingresará los datos del jubilado y se creará un expediente con un identificador único.
+        El usuario a través del DNI del jubilado extraerá el historial de aportes desde otro sistema.
+        El sistema genera el cálculo de la pensión y lo asocia al expediente del jubilado.
+        El usuario genera la resolución que autoriza el pago de la pensión.
+        El usuario notifica al jubilado.
+ 
+    Actores:
+        Trabajador
+        jubilado
+        admin
+    
+    funciones:
+        Trabajador: registrar datos y operaciones cercanas al admin, crud basico  
+        jubilado: visualizar los exp
+        admin: crear la cuenta de los trabajadores y mantenimiento del sistema
+
+        Caso de Usos:
+            Calcular pension
+            obtener historial de aportes
+            manetener sistema
+            notificacion del jubilado
+            
+
+    
