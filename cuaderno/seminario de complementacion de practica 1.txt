@@ -57,6 +57,7 @@ realiza el modelado del sistema
         Trabajador
         jubilado
         admin
+        Tecnico
     
     funciones:
         Trabajador: registrar datos y operaciones cercanas al admin, crud basico  
@@ -69,5 +70,49 @@ realiza el modelado del sistema
             manetener sistema
             notificacion del jubilado
             
+    
+    Calcular pension
+    
+        Individual:
+            requisitos
+                Tener 65 años
+                aportar 20 años(240 unidades)
+
+            Calcular pension:
+                promedio de los ultimos 60 sueldos
+                despues de 20 años aportando, se añade al sueldo promedio un 2% por cada año extra aportando
+                multiplicar por el % que corresponde:
+                    2002:
+                        hasta 29: 30%
+                        30 a 39: 35%
+                        40 a 49: 40%
+                        50 a 59: 45%
+                
+                tiene que ser  500<=x<=893
+
+        Especial:
+            Conyuge o conviviente:
+                si ambos juntan 240 unidades, les corresponde una pension
+                
+            con solo 10 años de aportes
+                tener mas de 65 años
+                aportar al menos 10 años 
+            
+            Jubilarte antes de los 65 años:
+                Mujer: 
+                    si tienes al menos 50 años 
+                    tener al menos 25 años cumplidos(300 unidades)
+                
+                Hombre: 
+                    tener al menos 55
+                    tener al menos 30 años aportando(360 unidades de aportes)
+                
+
+                Discapacitados:
+                    si tienes 55, eres afiliado
+                    aportar 20 años (240 unidades de aporte)
+                
+            Por Trabajo:
+                
 
     
