@@ -1,0 +1,71 @@
+Analisis del Sistema Actual:
+    Caso 1(Cistolito):
+        Componentes:
+            Equipos:
+                1. Servidor de base de datos
+                2. Servidor de respaldo de la base de datos
+                3. Maquina ticketera
+            Personas:
+                1. Asesor de venta
+                2. Cajeros
+                3. Reponedores
+                4. Limpieza
+                5. Distribuidor 
+            
+            Procedimientos:
+                1. El asesor ayuda al posible cliente
+                2. El cliente escoge un producto 
+                3. El cliente verifica el precio del producto
+                4. El cliente se registra en el sistema
+                5. El cliente realiza el pago en la caja
+            Programas:
+                1. Pasarela de pagos
+                2. sql server
+                3. sistema operativo Windows
+            Datos:
+                1. Cliente
+                2. Producto
+                3. Ventas
+                4. Gastos
+                5. Proveedor
+                6. Empleados 
+            
+    Caso 2:
+        Componentes:
+            Equipos:
+                1. Servidor de base de datos
+                2. Servidor de respaldo de la base de datos
+                3. Maquina ticketera
+                4. Telefono
+            Personas:
+                1. Gerente
+                2. Cajero
+                3. Limpieza 
+            
+            Procedimientos:
+                Reservacion:
+                    1. El cliente llama al hotel para recibir informacion 
+                    2. El gerente brinda la informacion deseada 
+                    3. El cliente reserva las habitaciones y dias 
+                    4. El gerente confirma las reservas
+                Entrega de llaves:
+                    1. El cliente habla con el gerente  
+                    2. El gerente registra su ingreso  
+                    3. El gerente entrega las llaves previa confirmacion del cliente 
+                Salida del cliente:
+                    1. El cliente se acerca con el gerente
+                    2. El gerente registra las habitaciones para registrar algun tipo de daño 
+                    3. En caso de haber algun tipo de daño hacia la habitacion se le suma los costos de reparacion al cliente
+                    4. Si no hay daño, El cliente registra el pago acordado inicialmente
+            Programas:
+                1. Pasarela de pagos
+                2. sql server
+                3. sistema operativo Windows
+            Datos:
+                1. Cliente
+                2. Habitaciones
+                3. Dias Reservados 
+                4. Gastos
+                5. Pagos
+                6. Empleados 
+            
