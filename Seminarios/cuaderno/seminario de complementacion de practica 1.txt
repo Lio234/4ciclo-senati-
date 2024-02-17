@@ -71,6 +71,8 @@ realiza el modelado del sistema
             notificacion del jubilado
             
     
+
+    
     Calcular pension
     
         Individual:
@@ -113,6 +115,89 @@ realiza el modelado del sistema
                     aportar 20 años (240 unidades de aporte)
                 
             Por Trabajo:
-                
+                Minero:
+                    1.     
+                        tipo de trabajo: socavon
+                        edad:45
+                        años de aporte: 20
+                        unidades: 240
+                        años trabajando especificamente: 10 
+                        unidades especificas: 120
+                    2.
+                        tipo de trabajo: tajo
+                        edad:50
+                        años de aporte: 25
+                        unidades: 300
+                        años trabajando especificamente: 10 
+                        unidades especificas: 120
 
-    
+                Construccion Civil:
+                    edad:55
+                    años de aporte: 20
+                    unidades: 240
+                    años trabajando especificamente: 5 ultimos
+                    unidades especificas: 60
+                
+                Trabajador maritimo:
+                    edad:55
+                    años de aporte: 20
+                    unidades: 240
+                    años trabajando especificamente: 5 ultimos
+                    unidades especificas: 60
+                Periodista:
+                    edad:55 Hombre
+                    edad:50 Mujer
+                    años de aporte: 20
+                    unidades: 240
+                    años trabajando especificamente: 5 ultimos
+                    unidades especificas: 60
+                pilotos y copilotos:
+                    1. 
+                        edad:55   
+                        años de aporte: 20
+                        unidades: 240
+                        años trabajando especificamente: 5 ultimos
+                        unidades especificas: 60
+                    2. 
+                        edad:56   
+                        años de aporte: 20
+                        unidades: 240
+                        años trabajando especificamente: 4 ultimos
+                        unidades especificas: 48
+                    3. 
+                        edad:57   
+                        años de aporte: 20
+                        unidades: 240
+                        años trabajando especificamente: 3 ultimos
+                        unidades especificas: 36
+                    4. 
+                        edad:58   
+                        años de aporte: 20
+                        unidades: 240
+                        años trabajando especificamente: 2 ultimos
+                        unidades especificas: 24
+                    5. 
+                        edad:59   
+                        años de aporte: 20
+                        unidades: 240
+                        años trabajando especificamente: 1 ultimos
+                        unidades especificas: 12
+                Industria del cuero:
+                    edad:55   
+                    años de aporte: 20
+                    unidades: 240
+                    años trabajando especificamente: 5 ultimos
+                    unidades especificas: 60
+                Ama de casa:
+                    edad:55  
+                    años de aporte: 20
+                    unidades: 240
+                    años trabajando especificamente: 5 ultimos
+                    unidades especificas: 60    
+                trabajador del hogar:
+                    edad:65  
+                    años de aporte: 20
+                    unidades: 240
+
+
+
