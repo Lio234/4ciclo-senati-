@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Tarea 3- Jarama Ayllon" id="BA9CD1D7-87E8-9308-73A8-C18D7C3D044C" version="3.5">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 03:45:58 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BA9CD1D7-87E8-9308-73A8-C18D7C3D044C</designId>
+</OSDM_Design>
