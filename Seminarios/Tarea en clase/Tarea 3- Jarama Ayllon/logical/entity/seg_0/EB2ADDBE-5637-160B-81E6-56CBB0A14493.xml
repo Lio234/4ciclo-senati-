@@ -14,4 +14,72 @@
 <maxVolumes>9999999</maxVolumes>
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Id_pension" id="B634CEF1-1961-7731-CCC7-790980FA2B45">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 03:53:24 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Promedio_sueldo" id="81B432C2-5364-10BB-C858-CFBBB52F3831">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 03:53:30 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT020</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<ownDataTypeParameters>,2,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Años_aportados" id="B03200EE-A6D4-4B62-839E-73255F6C0164">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 03:54:04 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Tipo_trabajo" id="AC7ADC88-2EF0-8FE3-98AF-410E29D680A1">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 03:54:33 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="EFCAD74A-AC20-9092-F4C9-865396EEA094" name="Pension PK">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 03:54:52 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>B634CEF1-1961-7731-CCC7-790980FA2B45</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

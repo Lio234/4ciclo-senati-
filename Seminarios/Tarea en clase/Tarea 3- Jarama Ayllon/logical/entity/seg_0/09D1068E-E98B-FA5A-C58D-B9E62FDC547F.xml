@@ -14,4 +14,113 @@
 <maxVolumes>9999999</maxVolumes>
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_cuenta" id="E5CA2D5A-9E5F-0431-3F1D-088CF4E8FA1E">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:01:22 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="correo" id="06B5EA74-41AF-63BB-34B7-EC94606319C9">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:01:28 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="contraseña" id="1CF8F558-DA31-101A-D310-41F2A1D20129">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:01:40 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fecha_creacion" id="4FE77488-3067-B140-2BC1-698C239BA4F3">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:01:32 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fecha_caducidad" id="344BD2B4-F246-321B-519E-BF0E5E4B2646">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:01:36 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Id_usuario" id="40FA4B4C-5FFB-DDCE-0BB5-033E6EE4E2CA">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:03:47 UTC</createdTime>
+<generatorID>6BEE8BF7-89F4-EABF-34E5-77A7F34B5BC9</generatorID>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<referedAttribute>DDF727AC-C4B5-6C9F-17BF-5BB119D21C8C</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_admin" id="EB2E923B-87F4-F174-3448-D8A552579221">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:04:05 UTC</createdTime>
+<generatorID>5589B389-195D-E795-D834-67406BBBD7C3</generatorID>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<referedAttribute>E4644552-BA3C-AD3A-C59F-E5D0CA621859</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="44D8DCF9-4B11-EE0E-32A4-9328B12B6367" name="Cuenta PK">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:01:58 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>E5CA2D5A-9E5F-0431-3F1D-088CF4E8FA1E</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

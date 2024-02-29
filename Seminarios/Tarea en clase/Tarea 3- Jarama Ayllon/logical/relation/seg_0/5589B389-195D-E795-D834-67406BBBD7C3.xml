@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_2" directorySegmentName="seg_0" id="5589B389-195D-E795-D834-67406BBBD7C3">
+<createdBy>leo</createdBy>
+<createdTime>2024-02-28 04:04:05 UTC</createdTime>
+<ownerDesignName>Tarea 3- Jarama Ayllon</ownerDesignName>
+<engineerTo>
+<item key="42770C28-0E2D-8980-6778-A1C1D379F906" value="true"/>
+</engineerTo>
+<sourcePk>34634C2C-3221-A98A-402F-5D8DCBC91407</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>DEE7C593-E4EA-D4CA-0776-C094B7437BDA</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>09D1068E-E98B-FA5A-C58D-B9E62FDC547F</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
