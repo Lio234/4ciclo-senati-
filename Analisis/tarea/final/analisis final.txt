@@ -1,0 +1,9 @@
+1. almacena los datos de clientes en nombre, apellidos, dni, fecha de nac, tel, email
+lo almacenan los auxiliares, ellos ejercen el labor de administracion
+2. se almacena mascotas de los dueños, la relacion entre mascotas y dueños es de siempre muchos a 1, significa que un dueño puede tener 1 a mas mascotas, pero la mascota solo puede tener 1 dueño, pero se puede cambiar de dueño a la mascota
+3.se registrara en el REIAC a todas las moscotas que no esten en ella
+4.datos de consulta: contiene tiempo de consulta, id de persona que lo trato, id animal, id dueño, importe total, resolucion, recetas y etc 
+5. diagrama de estado: para tener el tiempo exacto de cada consulta, el vet tiene un boton para iniciar y otro para cerrar el cronometro
+6.si el animal se queda internado, el dueño puede ver su estado por una app, ademas de ver al animal por una camara
+7. el cliente puede pagar al instante o despues por una app web, si se demora una semana se efecturara un costo extra
+8. el cliente puede tener el historial de cada cita que tuvo sus mascotas desde una app 
