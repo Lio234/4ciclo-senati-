@@ -1,0 +1,13 @@
+C:\Users\leo\source\repos\entregable 2\view\bin\Debug\view.exe.config
+C:\Users\leo\source\repos\entregable 2\view\bin\Debug\view.exe
+C:\Users\leo\source\repos\entregable 2\view\bin\Debug\view.pdb
+C:\Users\leo\source\repos\entregable 2\view\bin\Debug\Clases.dll
+C:\Users\leo\source\repos\entregable 2\view\bin\Debug\Clases.pdb
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.Form1.resources
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.Properties.Resources.resources
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.csproj.GenerateResource.cache
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.csproj.Up2Date
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.exe
+C:\Users\leo\source\repos\entregable 2\view\obj\Debug\view.pdb
