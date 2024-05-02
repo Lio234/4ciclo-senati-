@@ -1,0 +1,11 @@
+C:\Users\leo\source\repos\Entregable3\C_Negocio\bin\Debug\C_Negocio.dll
+C:\Users\leo\source\repos\Entregable3\C_Negocio\bin\Debug\C_Negocio.pdb
+C:\Users\leo\source\repos\Entregable3\C_Negocio\bin\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Entregable3\C_Negocio\bin\Debug\C_Entidad.dll
+C:\Users\leo\source\repos\Entregable3\C_Negocio\bin\Debug\C_Dato.pdb
+C:\Users\leo\source\repos\Entregable3\C_Negocio\bin\Debug\C_Entidad.pdb
+C:\Users\leo\source\repos\Entregable3\C_Negocio\obj\Debug\C_Negocio.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\Entregable3\C_Negocio\obj\Debug\C_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Entregable3\C_Negocio\obj\Debug\C_Negocio.csproj.Up2Date
+C:\Users\leo\source\repos\Entregable3\C_Negocio\obj\Debug\C_Negocio.dll
+C:\Users\leo\source\repos\Entregable3\C_Negocio\obj\Debug\C_Negocio.pdb
