@@ -1,0 +1,39 @@
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Presentacion.exe.config
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Presentacion.exe
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Presentacion.pdb
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Entidad.dll
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Negocio.dll
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Entidad.pdb
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Negocio.pdb
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\bin\Debug\C_Dato.pdb
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.csproj.GenerateResource.cache
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presen.BD4CA75A.Up2Date
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.exe
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.pdb
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.Cliente_CP.resources
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.F_Principal.resources
+C:\Users\leo\source\repos\Entregable3\C_Presentacion\obj\Debug\C_Presentacion.Producto_CP.resources
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Presentacion.exe.config
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Presentacion.exe
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Presentacion.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Entidad.dll
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Negocio.dll
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Entidad.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Negocio.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\bin\Debug\C_Dato.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.Cliente_CP.resources
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.Producto_CP.resources
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.csproj.GenerateResource.cache
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presen.BD4CA75A.Up2Date
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.exe
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.Registro_ventas_CP.resources
+C:\Users\leo\source\repos\Trabajo Final\C_Presentacion\obj\Debug\C_Presentacion.F_Principal_CP.resources

@@ -1,0 +1,9 @@
+C:\Users\leo\source\repos\Entregable3\Entregable_3\bin\Debug\Entregable_3.exe.config
+C:\Users\leo\source\repos\Entregable3\Entregable_3\bin\Debug\Entregable_3.exe
+C:\Users\leo\source\repos\Entregable3\Entregable_3\bin\Debug\Entregable_3.pdb
+C:\Users\leo\source\repos\Entregable3\Entregable_3\obj\Debug\Entregable_3.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\Entregable3\Entregable_3\obj\Debug\Entregable_3.Properties.Resources.resources
+C:\Users\leo\source\repos\Entregable3\Entregable_3\obj\Debug\Entregable_3.csproj.GenerateResource.cache
+C:\Users\leo\source\repos\Entregable3\Entregable_3\obj\Debug\Entregable_3.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Entregable3\Entregable_3\obj\Debug\Entregable_3.exe
+C:\Users\leo\source\repos\Entregable3\Entregable_3\obj\Debug\Entregable_3.pdb

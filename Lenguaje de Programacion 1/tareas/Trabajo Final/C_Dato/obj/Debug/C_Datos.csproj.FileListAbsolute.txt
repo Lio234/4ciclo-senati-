@@ -1,0 +1,18 @@
+C:\Users\leo\source\repos\Entregable3\C_Dato\bin\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Entregable3\C_Dato\bin\Debug\C_Dato.pdb
+C:\Users\leo\source\repos\Entregable3\C_Dato\bin\Debug\C_Entidad.dll
+C:\Users\leo\source\repos\Entregable3\C_Dato\bin\Debug\C_Entidad.pdb
+C:\Users\leo\source\repos\Entregable3\C_Dato\obj\Debug\C_Datos.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\Entregable3\C_Dato\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Entregable3\C_Dato\obj\Debug\C_Datos.csproj.Up2Date
+C:\Users\leo\source\repos\Entregable3\C_Dato\obj\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Entregable3\C_Dato\obj\Debug\C_Dato.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\bin\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\bin\Debug\C_Dato.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\bin\Debug\C_Entidad.dll
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\bin\Debug\C_Entidad.pdb
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\obj\Debug\C_Datos.csproj.AssemblyReference.cache
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\obj\Debug\C_Datos.csproj.Up2Date
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\obj\Debug\C_Dato.dll
+C:\Users\leo\source\repos\Trabajo Final\C_Dato\obj\Debug\C_Dato.pdb
