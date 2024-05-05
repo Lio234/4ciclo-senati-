@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leo\\source\\repos\\Trabajo Final\\",
+  "WorkspaceRootPath": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1600B1-01EE-4875-B89C-9F7088066B97}|C_Presentacion\\C_Presentacion.csproj|c:\\users\\leo\\source\\repos\\trabajo final\\c_presentacion\\registro_ventas_cp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9D7F5C25-E747-4465-9077-883289C31DB7}|C_Dato\\C_Datos.csproj|c:\\users\\leo\\desktop\\nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\lenguaje de programacion 1\\tareas\\trabajo final\\c_dato\\cliente_cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7F5C25-E747-4465-9077-883289C31DB7}|C_Dato\\C_Datos.csproj|solutionrelative:c_dato\\cliente_cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1600B1-01EE-4875-B89C-9F7088066B97}|C_Presentacion\\C_Presentacion.csproj|c:\\users\\leo\\desktop\\nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\lenguaje de programacion 1\\tareas\\trabajo final\\c_presentacion\\registro_ventas_cp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1600B1-01EE-4875-B89C-9F7088066B97}|C_Presentacion\\C_Presentacion.csproj|solutionrelative:c_presentacion\\registro_ventas_cp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1600B1-01EE-4875-B89C-9F7088066B97}|C_Presentacion\\C_Presentacion.csproj|c:\\users\\leo\\desktop\\nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\lenguaje de programacion 1\\tareas\\trabajo final\\c_presentacion\\registro_ventas_cp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4A1600B1-01EE-4875-B89C-9F7088066B97}|C_Presentacion\\C_Presentacion.csproj|solutionrelative:c_presentacion\\registro_ventas_cp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -31,10 +39,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cliente_CD.cs",
+              "DocumentMoniker": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\C_Dato\\Cliente_CD.cs",
+              "RelativeDocumentMoniker": "C_Dato\\Cliente_CD.cs",
+              "ToolTip": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\C_Dato\\Cliente_CD.cs",
+              "RelativeToolTip": "C_Dato\\Cliente_CD.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:58:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro_ventas_CP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\C_Presentacion\\Registro_ventas_CP.Designer.cs",
+              "RelativeDocumentMoniker": "C_Presentacion\\Registro_ventas_CP.Designer.cs",
+              "ToolTip": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\C_Presentacion\\Registro_ventas_CP.Designer.cs",
+              "RelativeToolTip": "C_Presentacion\\Registro_ventas_CP.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:58:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Registro_ventas_CP.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\leo\\source\\repos\\Trabajo Final\\C_Presentacion\\Registro_ventas_CP.cs",
+              "DocumentMoniker": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\C_Presentacion\\Registro_ventas_CP.cs",
               "RelativeDocumentMoniker": "C_Presentacion\\Registro_ventas_CP.cs",
-              "ToolTip": "C:\\Users\\leo\\source\\repos\\Trabajo Final\\C_Presentacion\\Registro_ventas_CP.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\leo\\Desktop\\Nueva carpeta\\4to ciclo senati\\4ciclo-senati-\\Lenguaje de Programacion 1\\tareas\\Trabajo Final\\C_Presentacion\\Registro_ventas_CP.cs [Dise\u00F1o]",
               "RelativeToolTip": "C_Presentacion\\Registro_ventas_CP.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T06:54:42.523Z",
