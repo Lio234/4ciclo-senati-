@@ -1,0 +1,22 @@
+las demas clases me las pase por las 2 bolas, en su mayoria era machine learning y creacion de cruds con python y django
+tips:
+cuando se compre un router nuevo, debes de configurarlo con un cable de consola para luego habilitar los demas puertos
+
+
+Introduccion a las redes:
+objetivo comunicar varios host a traves de un switch con la herramienta packet tracer
+
+ipv4:
+es conformada por 4 octetos de 8 bits(192.168.1.2) cada uno de ellos es un octeto separado por 1 punto
+
+host:
+es cualquier equipo que pueda conectarse a una red
+
+clases:
+clase a:
+clase b:
+clase c: usa 3 octectos como host y 1 como red, se usa para redes pequeñas
+
+ip a binario:
+mascara de subred(redmask):
+tiene 4 octetos, se puede deducir que clase es por su tipo
