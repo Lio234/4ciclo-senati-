@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirmar Eliminación</title>
+    <style>
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        .btn-confirmar, .btn-cancelar {
+            padding: 10px 20px;
+            margin-right: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+        }
+        .btn-confirmar {
+            background-color: #dc3545;
+            color: #fff;
+        }
+        .btn-cancelar {
+            background-color: #007bff;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>¿Estás seguro que deseas eliminar el producto?</h2>
+        <p>Descripción: {{ producto.descripcion }}</p>
+        <p>Categoría: {{ producto.categoria }}</p>
+        <p>Precio: {{ producto.precio }}</p>
+        <p>Stock: {{ producto.stock }}</p>
+        
+        <form action="{% url 'eliminar_producto' producto.id %}" method="post">
+            {% csrf_token %}
+            <button type="submit" class="btn-confirmar">Confirmar Eliminar</button>
+            <a href="{% url 'mostrar' %}" class="btn-cancelar">Cancelar</a>
+        </form>
+    </div>
+</body>
+</html>
